@@ -26,18 +26,18 @@ index_page.data['content'] = """
                     <section class="spotlight">
                         <div class="content">
                             <h3>We architect and we code.</h3>
-                            <p>We're not interested in doing anything else for you.  If you want to know how to do your software project right, we can tell you.  Professionally and directly as possible.  You'll feel comfortable that it's the truth because we'll have no stake in it.</p>
+                            <p>We're not interested in doing anything else for you.  If you want to know how to do your software project right, we can tell you.  Professionally and directly as possible.  You'll feel comfortable that it's the truth because we'll have no stake in it otherwise.</p>
                         </div>
                     </section>
                     <section class="spotlight">
                         <div class="content">
-                            <h3>Python, Java, Javascript</h3>
+                            <h3>Python, Java, Javascript, K</h3>
                             <p>These are the languages we work in.  Need something else?  We're probably not interested ourselves.  Ask for a referral if you need one.</p>
                         </div>
                     </section>
                     <section class="spotlight">
                         <div class="content">
-                            <h3>Angular, React, FreeSWITCH, Pyramid</h3>
+                            <h3>Angular, React, FreeSWITCH, Pyramid, Postgres</h3>
                             <p>These are about the only buzz worthy things we are focused on right now.  If you've got something else, ask, but we may just tell you we're not the best fit.</p>
                         </div>
                     </section>
