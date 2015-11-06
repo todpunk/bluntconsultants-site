@@ -1,2 +1,2 @@
 # bluntconsultants-site
-pydozer site files for bluntconsultants.com
+The site files for http://bluntconsultants.com for generating the static site
